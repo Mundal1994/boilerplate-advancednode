@@ -14,6 +14,6 @@ Use the sample.env as reference. Make your own .env file and fill out the empty 
 
 Use the command:
 
-  npm install && npm run start
+    npm install && npm run start
 
 open http://localhost:3000/ in the web browser.
